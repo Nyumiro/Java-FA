@@ -1,5 +1,5 @@
 # Java_HW_3
-Создать 3 класса ([базовый](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Employee.java)) и 2 дочерних), которые описывают некоторых работников с [почасовой оплатой](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Cleaner.java) и [фиксированой оплатой](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Manager.java)
+Создать 3 класса ([базовый](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Employee.java)) и 2 дочерних), которые описывают некоторых работников с [почасовой оплатой](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Cleaner.java) и [фиксированой оплатой](https://github.com/Nyumiro/Java-FA/blob/main/3/src/employees/Manager.java).
 Описать в базовом классе абстрактный метод для расчета среднемесячной зарплаты.
 Для «почасовщиков» формула для расчета такая: «среднемесячная зарплата = 20.8*8*ставка в час»,
 для работников с фиксированой оплатой «среднемесячная зарплата = фиксированой месячной оплате».
